@@ -1,2 +1,2 @@
 # terraria-wasm
-terraria in browser
+terraria in browser, requires you to own terraria
